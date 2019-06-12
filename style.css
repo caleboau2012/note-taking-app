@@ -1,0 +1,29 @@
+.note .panel .panel-body {
+  height: 150px;
+}
+
+.note .note-body {
+  height: 120px;
+  overflow: scroll;
+}
+
+.note-title {
+  width: 70%;
+  height: 20px;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+#editor-body {
+  resize: none;
+  height: 500px;
+}
+
+.editor-color,
+.note-color {
+  height: 30px;
+}
